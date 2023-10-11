@@ -9,7 +9,7 @@
     "bootstrap": "4.4.1",
     "@types/node": "12.12.37",
     "font-awesome": "4.7.0",
-    "@angular/core": "9.1.2",
+    "@angular/core": "10.2.5",
     "@angular/forms": "9.1.2",
     "@types/jasmine": "3.5.10",
     "@angular/common": "9.1.2",
